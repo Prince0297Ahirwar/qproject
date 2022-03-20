@@ -1,0 +1,29 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.0.12",
+    "moongoose": "^0.0.5",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.14",
+    "passport": "^0.5.0",
+    "passport-google-oauth": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "ws": "^8.3.0"
+  },
+  "description": ""
+}
